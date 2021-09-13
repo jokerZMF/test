@@ -1,0 +1,17 @@
+{
+    "name": "xrkoi",
+    "version": "0.6.7",
+    "description": "Extension for KOI AI module, Second in-depth development by XiaoRGEEK",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "koi.ts",
+        "_locales/zh/xrkoi-strings.json"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj",
+    "icon": "https://s3.ax1x.com/2020/12/02/D5a42R.png"
+}
